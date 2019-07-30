@@ -1,2 +1,2 @@
 # github-demo
-This is demo for new github users.
+- This is demo for new github users.
